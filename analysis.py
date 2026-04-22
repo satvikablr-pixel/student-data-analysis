@@ -9,3 +9,6 @@ print("Min:", df["Marks"].min())
 
 topper = df[df["Marks"] == df["Marks"].max()]
 print(topper)
+
+topper = df[df["Marks"] == df["Marks"].max()]
+print(topper)
