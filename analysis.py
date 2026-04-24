@@ -12,3 +12,6 @@ print(topper)
 
 topper = df[df["Marks"] == df["Marks"].max()]
 print(topper)
+
+low_attendance = df[df["Attendance"] < 75]
+print(low_attendance)
