@@ -1,5 +1,5 @@
 # student-data-analysis
-Student Data Analysis Project
+Student Data Analysis Project -
 This project analyzes student data using Python.
 
 -initialised project
