@@ -1,6 +1,7 @@
 # student-data-analysis
 Student Data Analysis Project
 This project analyzes student data using Python.
+
 -initialised project
 - added dataset
 - loaded dataset using pandas
