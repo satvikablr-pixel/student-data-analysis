@@ -9,3 +9,4 @@ This project analyzes student data using Python.
 - found topper
 - filtered low attendance students
 - Updated README
+- expanded
