@@ -8,5 +8,5 @@ This project analyzes student data using Python.
 - added basic statistics
 - found topper
 - filtered low attendance students
-- Updated README
+- Updated README file
 - expanded dataset
