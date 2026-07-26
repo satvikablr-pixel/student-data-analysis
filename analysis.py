@@ -15,3 +15,11 @@ print(topper)
 
 low_attendance = df[df["Attendance"] < 75]
 print(low_attendance)
+
+def grade(m):
+    if m >= 80: return "A"
+    elif m >= 60: return "B"
+    else: return "C"
+
+df["Grade"] = df["Marks"].apply(grade)
+print(df)
