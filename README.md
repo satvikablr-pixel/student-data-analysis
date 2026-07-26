@@ -10,3 +10,4 @@ This project analyzes student data using Python.
 - filtered low attendance students
 - Updated README file
 - expanded dataset
+- added grading system
