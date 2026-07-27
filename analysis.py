@@ -23,3 +23,5 @@ def grade(m):
 
 df["Grade"] = df["Marks"].apply(grade)
 print(df)
+
+print(df.sort_values(by="Marks", ascending=False))
