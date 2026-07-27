@@ -11,3 +11,4 @@ This project analyzes student data using Python.
 - Updated README file
 - expanded dataset
 - added grading system
+- sorted students by marks
