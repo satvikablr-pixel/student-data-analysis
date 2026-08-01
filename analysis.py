@@ -25,3 +25,5 @@ df["Grade"] = df["Marks"].apply(grade)
 print(df)
 
 print(df.sort_values(by="Marks", ascending=False))
+
+print(df.groupby("Subject")["Marks"].mean())
