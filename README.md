@@ -12,3 +12,4 @@ This project analyzes student data using Python.
 - expanded dataset
 - added grading system
 - sorted students by marks
+- Grouped data by subject
